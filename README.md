@@ -1,4 +1,4 @@
-# Hi, I'm Ariyarathna B.D.T.S.P. 👋
+# Hi, I'm Ariyarathna B.D.T.S.P. 
 
 ## Security Software Engineer | Application Security | DevSecOps | Cloud & Network Security
 

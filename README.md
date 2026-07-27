@@ -6,8 +6,10 @@
   />
 </p>
 
+<h1 align="center">Security Software Engineer</h1>
+
 <p align="center">
-  <strong>Security Software Engineer · Application Security · DevSecOps · Cloud &amp; Network Security</strong>
+  <strong>Application Security · DevSecOps · Cloud Security · Network Security</strong>
 </p>
 
 <p align="center">
@@ -22,65 +24,197 @@
   </a>
 </p>
 
-## Secure software, engineered end to end
+<br />
 
-I build and secure software systems using secure-by-design engineering, practical defensive security, and DevSecOps. My work spans secure web and mobile development, application and API security, CI/CD security integration, cloud and infrastructure hardening, vulnerability assessment, incident triage, network monitoring, and security automation.
+<table width="100%">
+  <tr>
+    <td width="64%" valign="top">
+      <h2>Professional profile</h2>
+      <p>
+        I build and secure software systems through secure-by-design engineering,
+        practical defensive security, and DevSecOps. My work spans secure web and
+        mobile development, application and API security, CI/CD security,
+        cloud and infrastructure hardening, vulnerability assessment, incident
+        triage, network monitoring, and security automation.
+      </p>
+    </td>
+    <td width="36%" valign="top">
+      <h2>Open to opportunities</h2>
+      <p>
+        <strong>International · Remote · Hybrid</strong><br />
+        USA · UK · UAE · Australia<br />
+        and other global markets
+      </p>
+      <p>
+        Currently at <strong>Aurasync Technologies</strong>
+      </p>
+    </td>
+  </tr>
+</table>
 
-Currently working as a **Security Software Developer / Engineer at Aurasync Technologies** and open to international, remote, and hybrid opportunities across the **USA, UK, UAE, Australia, and other global markets**.
+<h2>Engineering expertise</h2>
 
-## Engineering focus
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Secure engineering</h3>
+      <ul>
+        <li>Secure web, mobile, and API development</li>
+        <li>Application security and OWASP Top 10</li>
+        <li>DevSecOps, SAST/DAST, and CI/CD controls</li>
+        <li>OAuth 2.0, JWT, and encrypted communications</li>
+        <li>Python and Mojo security automation</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Defensive security</h3>
+      <ul>
+        <li>Vulnerability assessment and remediation</li>
+        <li>Incident triage and security monitoring</li>
+        <li>Network and infrastructure hardening</li>
+        <li>Cloud security across AWS and Google Cloud</li>
+        <li>Machine-learning-assisted anomaly detection</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-| Secure engineering | Defensive security |
-| --- | --- |
-| Secure web, mobile, and API development | Vulnerability assessment and remediation |
-| Application security and OWASP Top 10 | Incident triage and security monitoring |
-| DevSecOps, SAST/DAST, and CI/CD controls | Network and infrastructure hardening |
-| OAuth 2.0, JWT, and encrypted communications | Cloud security across AWS and Google Cloud |
-| Python and Mojo automation | ML-assisted anomaly detection |
+<h2>Technology and security toolkit</h2>
 
-## Technology and security toolkit
+<table width="100%">
+  <tr>
+    <th align="left">Area</th>
+    <th align="left">Technologies and practices</th>
+  </tr>
+  <tr>
+    <td><strong>Languages &amp; development</strong></td>
+    <td>
+      <code>Python</code> <code>Mojo</code> <code>JavaScript</code>
+      <code>React</code> <code>Node.js</code> <code>Java</code>
+      <code>C++</code> <code>Bash</code> <code>REST APIs</code>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Application security</strong></td>
+    <td>
+      <code>OWASP Top 10</code> <code>SAST</code> <code>DAST</code>
+      <code>VAPT</code> <code>Threat Modeling</code> <code>Secure SDLC</code>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Security tooling</strong></td>
+    <td>
+      <code>Burp Suite</code> <code>Nessus</code> <code>Metasploit</code>
+      <code>Wireshark</code> <code>SIEM</code>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Cloud &amp; infrastructure</strong></td>
+    <td>
+      <code>AWS</code> <code>Google Cloud</code> <code>Sophos</code>
+      <code>Cyberoam</code> <code>Infrastructure Hardening</code>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Standards</strong></td>
+    <td>
+      <code>NIST CSF</code> <code>ISO/IEC 27001</code>
+      <code>Risk Assessment</code> <code>Code Review</code>
+    </td>
+  </tr>
+</table>
 
-**Languages and development**  
-`Python` `Mojo` `JavaScript` `React` `Node.js` `Java` `C++` `Bash` `REST APIs`
+<h2>Professional experience</h2>
 
-**Application and offensive security**  
-`OWASP Top 10` `SAST` `DAST` `VAPT` `Threat Modeling` `Burp Suite` `Nessus` `Metasploit`
+<table width="100%">
+  <tr>
+    <th align="left">Role</th>
+    <th align="left">Organization</th>
+  </tr>
+  <tr>
+    <td><strong>Security Software Developer / Engineer</strong></td>
+    <td>Aurasync Technologies</td>
+  </tr>
+  <tr>
+    <td><strong>Associate Information Security Analyst</strong></td>
+    <td>Sysflicx IT Solutions</td>
+  </tr>
+  <tr>
+    <td><strong>Network Security Analyst Intern</strong></td>
+    <td>Avian Technologies</td>
+  </tr>
+  <tr>
+    <td><strong>Machine Learning &amp; Systems Security Specialist</strong></td>
+    <td>Independent work</td>
+  </tr>
+</table>
 
-**Infrastructure and defensive security**  
-`AWS` `Google Cloud` `Wireshark` `Sophos` `Cyberoam` `SIEM` `Incident Response`
+<h2>Selected work and research</h2>
 
-**Standards and practices**  
-`NIST CSF` `ISO/IEC 27001` `Secure SDLC` `Code Review` `Risk Assessment`
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Mojo beginner project series</h3>
+      <p>
+        A practical <strong>20-project learning series</strong> progressing from
+        language fundamentals to useful command-line applications—including a
+        calculator, password generator, expense tracker, file organizer,
+        weather client, password vault, and mini shell.
+      </p>
+      <p>
+        <a href="https://github.com/theneth?tab=repositories&q=mojo-&type=source&language=&sort=name">
+          <strong>Explore the Mojo project series →</strong>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Published research</h3>
+      <ul>
+        <li>
+          <a href="https://irjiet.com/article/Developing-an-Optimal-Strategy-to-Address-the-Vulnerability-of-Image-Tampering/1986">
+            Image tampering vulnerability and mitigation strategy
+          </a>
+        </li>
+        <li>
+          <a href="https://www.researchgate.net/publication/384971779_Enhancing_Organizational_Time_Efficiency_Using_Machine_Learning_for_Employee_Activity_Monitoring">
+            ML-driven employee activity monitoring and time efficiency
+          </a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-## Experience
+<h2>Education</h2>
 
-- **Security Software Developer / Engineer** — Aurasync Technologies
-- **Associate Information Security Analyst** — Sysflicx IT Solutions
-- **Network Security Analyst Intern** — Avian Technologies
-- **Machine Learning & Systems Security Specialist** — Independent work
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>BSc (Hons) in Information Technology</strong><br />
+      Cybersecurity<br />
+      Kingston University
+    </td>
+    <td width="50%" valign="top">
+      <strong>Higher National Diploma in Information Technology</strong><br />
+      Cybersecurity<br />
+      SLIIT
+    </td>
+  </tr>
+</table>
 
-## Featured work
+<br />
 
-### Mojo beginner project series
-
-A practical **20-project learning series** that progresses from language fundamentals to useful command-line applications, including a calculator, password generator, expense tracker, contact manager, file organizer, weather client, password vault, and mini shell.
-
-[Explore the Mojo project series →](https://github.com/theneth?tab=repositories&q=mojo-&type=source&language=&sort=name)
-
-### Published research
-
-- [Developing an Optimal Strategy to Address the Vulnerability of Image Tampering](https://irjiet.com/article/Developing-an-Optimal-Strategy-to-Address-the-Vulnerability-of-Image-Tampering/1986)
-- [Enhancing Organizational Time Efficiency Using Machine Learning for Employee Activity Monitoring](https://www.researchgate.net/publication/384971779_Enhancing_Organizational_Time_Efficiency_Using_Machine_Learning_for_Employee_Activity_Monitoring)
-
-## Education
-
-- **BSc (Hons) in Information Technology — Cybersecurity**, Kingston University
-- **Higher National Diploma in Information Technology — Cybersecurity**, SLIIT
-
-## Let’s connect
-
-I am interested in **Security Software Engineering, Application Security, DevSecOps, Cloud Security, Network Security, and broader Cybersecurity roles**.
-
-- [LinkedIn](https://www.linkedin.com/in/ariyarathne/)
-- [GitHub repositories](https://github.com/theneth?tab=repositories)
-- [stheneth@gmail.com](mailto:stheneth@gmail.com)
+<div align="center">
+  <h2>Let’s connect</h2>
+  <p>
+    Open to Security Software Engineering, Application Security, DevSecOps,
+    Cloud Security, Network Security, and broader Cybersecurity roles.
+  </p>
+  <p>
+    <a href="https://www.linkedin.com/in/ariyarathne/"><strong>LinkedIn</strong></a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/theneth?tab=repositories"><strong>Repositories</strong></a>
+    &nbsp;·&nbsp;
+    <a href="mailto:stheneth@gmail.com"><strong>Email</strong></a>
+  </p>
+</div>

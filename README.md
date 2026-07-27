@@ -93,6 +93,38 @@
   Technology and security toolkit
 </h2>
 
+<p align="center">
+  <img src="https://api.iconify.design/simple-icons:python.svg?color=%23181717" width="32" height="32" alt="Python" title="Python" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:javascript.svg?color=%23181717" width="32" height="32" alt="JavaScript" title="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:react.svg?color=%23181717" width="32" height="32" alt="React" title="React" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:nodedotjs.svg?color=%23181717" width="32" height="32" alt="Node.js" title="Node.js" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:openjdk.svg?color=%23181717" width="32" height="32" alt="Java" title="Java" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:cplusplus.svg?color=%23181717" width="32" height="32" alt="C++" title="C++" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:gnubash.svg?color=%23181717" width="32" height="32" alt="Bash" title="Bash" />
+</p>
+
+<p align="center">
+  <img src="https://api.iconify.design/simple-icons:git.svg?color=%23181717" width="32" height="32" alt="Git" title="Git" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:amazonwebservices.svg?color=%23181717" width="32" height="32" alt="AWS" title="AWS" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:googlecloud.svg?color=%23181717" width="32" height="32" alt="Google Cloud" title="Google Cloud" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:owasp.svg?color=%23181717" width="32" height="32" alt="OWASP" title="OWASP" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:burpsuite.svg?color=%23181717" width="32" height="32" alt="Burp Suite" title="Burp Suite" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:wireshark.svg?color=%23181717" width="32" height="32" alt="Wireshark" title="Wireshark" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:metasploit.svg?color=%23181717" width="32" height="32" alt="Metasploit" title="Metasploit" />
+</p>
+
 **Languages and development**  
 Python · Mojo · JavaScript · React · Node.js · Java · C++ · Bash · REST APIs
 
@@ -191,11 +223,15 @@ AWS · Google Cloud · NIST CSF · ISO/IEC 27001
     Cloud Security · Network Security · Cybersecurity
   </p>
   <p>
-    <a href="https://www.linkedin.com/in/ariyarathne/"><strong>LinkedIn</strong></a>
-    &nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="https://github.com/theneth?tab=repositories"><strong>Repositories</strong></a>
-    &nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="mailto:stheneth@gmail.com"><strong>Email</strong></a>
+    <a href="https://www.linkedin.com/in/ariyarathne/">
+      <img src="https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+    </a>
+    <a href="https://github.com/theneth?tab=repositories">
+      <img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Public repositories" />
+    </a>
+    <a href="mailto:stheneth@gmail.com">
+      <img src="https://img.shields.io/badge/Email-181717?style=flat-square&logo=gmail&logoColor=white" alt="Email stheneth@gmail.com" />
+    </a>
   </p>
 </div>
 
